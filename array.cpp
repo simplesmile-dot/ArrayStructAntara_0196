@@ -43,4 +43,4 @@ int main()
         cout << "Data ke-" << (i + 1) << " : " << datamu[i] << endl;
     }
 }
-// Third
+// 5
